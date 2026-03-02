@@ -8,3 +8,9 @@
 ![CSS](https://img.shields.io/badge/CSS-2F2F2F?style=for-the-badge&logo=css3&logoColor=white)
 
 [![🔗 Links](https://img.shields.io/badge/%F0%9F%94%97%20Links-2F2F2F?style=for-the-badge)]( https://guns.lol/book.)
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FFFFFF&width=600&lines=~/yBookBR/projects;Loading...;Projects+found"/>
+
+[![NWX Open](https://img.shields.io/badge/NWX%20Open-2F2F2F?style=for-the-badge&logoColor=white)](https://github.com/yBookBR/NWX-OpenSource)
+[![NWX Hub](https://img.shields.io/badge/NWX%20Hub-2F2F2F?style=for-the-badge&logoColor=white)](https://github.com/yBookBR/NWX-Hub)
