@@ -4,6 +4,7 @@
 
 ![Lua](https://img.shields.io/badge/Lua-2F2F2F?style=for-the-badge&logo=lua&logoColor=white)
 ![Luau](https://img.shields.io/badge/Luau-2F2F2F?style=for-the-badge&logo=roblox&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2F2F2F?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-2F2F2F?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-2F2F2F?style=for-the-badge&logo=css3&logoColor=white)
 
