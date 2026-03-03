@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2F2F2F&height=200&section=header&text=yBook&fontSize=60&fontColor=ffffff"/>
 
-![Hi! My name is Book, I’m from Brazil, and I program in the following languages:](https://img.shields.io/badge/Hi!%20My%20name%20is%20Book,%20I%20live%20in%20Brazil%20and%20I%20program%20in%20the%20following%20languages-2F2F2F?style=for-the-badge&logoColor=white)
+![Hi! My name is Book. I'm from Brazil and I program in the following languages:](https://img.shields.io/badge/Hi!%20My%20name%20is%20Book.%20I'm%20from%20Brazil%20and%20I%20program%20in%20the%20following%20languages:-2F2F2F?style=for-the-badge)
 
 ![Lua](https://img.shields.io/badge/Lua-2F2F2F?style=for-the-badge&logo=lua&logoColor=white)
 ![Luau](https://img.shields.io/badge/Luau-2F2F2F?style=for-the-badge&logo=roblox&logoColor=white)
