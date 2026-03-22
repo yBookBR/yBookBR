@@ -22,14 +22,6 @@ Status: Unknown
 
 ---
 
-```zsh
-> open links
-```
-[![🔗](https://img.shields.io/badge/%F0%9F%94%97-141a23?style=for-the-badge)](https://guns.lol/book.)
-
----
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FFFFFF&width=1000&lines=~/yBookBR/projects;Loading...;Projects+found"/>
 </p>
@@ -37,6 +29,12 @@ Status: Unknown
 [![NWX Open](https://img.shields.io/badge/NWX%20Open-141a23?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yBookBR/NWX-OpenSource)
 [![NWX Hub](https://img.shields.io/badge/NWX%20Hub-141a23?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yBookBR/NWX-Hub)
 
+---
+
+```zsh
+> open links
+```
+[![🔗](https://img.shields.io/badge/%F0%9F%94%97-141a23?style=for-the-badge)](https://guns.lol/book.)
 
 ---
 
