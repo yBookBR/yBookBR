@@ -14,6 +14,7 @@ OS: Windows 11
 Shell: Windows PowerShell
 Location: Brazil
 Languages: Lua, Luau, JavaScript, HTML, CSS
+Learning: None
 Status: Unknown
 ```
 
