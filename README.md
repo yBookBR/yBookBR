@@ -14,7 +14,7 @@ OS: Windows 11
 Shell: Windows PowerShell
 IDE: VScode
 Location: Brazil
-Languages: Lua, Luau, JavaScript, HTML, CSS
+Languages: JavaScript, Lua, HTML, CSS
 Status: Unknown
 ```
 
