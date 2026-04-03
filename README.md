@@ -20,6 +20,10 @@ Status: Unknown
 
 <br clear="left"/>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,lua,css,html" />
+</p>
+
 ---
 
 <p align="center">
