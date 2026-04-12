@@ -47,7 +47,9 @@ Status: Unknown
     <img src="https://discord-activity-card.vercel.app/api/status/1054629497904836681" />
   </a>
 </p>
+
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yBookBR&style=for-the-badge&color=gray&base=12500"/>
 </p>
