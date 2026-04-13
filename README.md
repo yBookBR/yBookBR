@@ -38,7 +38,7 @@ Status: Unknown
 ```zsh
 > open links
 ```
-[![🔗](https://img.shields.io/badge/%F0%9F%94%97-141a23?style=for-the-badge)](https://guns.lol/book.)
+[![🔗](https://img.shields.io/badge/%F0%9F%94%97-141a23?style=for-the-badge)](https://ybookbr.github.io/)
 
 ---
 
